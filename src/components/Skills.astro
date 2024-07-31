@@ -1,0 +1,14 @@
+---
+    import {skills} from '@cv'
+---
+
+<section class="flex border-t pt-10 w-full justify-between gap-10 mb-10">
+    <h2 class="uppercase">Competencias</h2>
+    <div class="flex items-center gap-4 flex-wrap w-[31.5rem]">
+        {skills.map((s, index) => (
+            <p>
+                {s.skill}{index < skills.length - 1 && ' |'}
+            </p>
+        ))}
+    </div>
+</section>

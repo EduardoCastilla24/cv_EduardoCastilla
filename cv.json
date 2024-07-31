@@ -1,0 +1,110 @@
+{
+    "basics": {
+        "name": "Eduardo Castilla Pachas",
+        "photo": "",
+        "email": "edcast2430@gmail.com",
+        "phone": "+51 977 287 331",
+        "url": "",
+        "location": {
+            "address": "Barrio Santa Catalina 536 int. 18",
+            "city": "Chincha - Chincha Alta"
+        },
+        "networks": [
+            {
+                "network": "Twitter",
+                "username": "john",
+                "url": "https://twitter.com/john"
+            }
+        ],
+        "summary": "Estudiante de ingeniería de computación y sistemas cursando el 6to ciclo académico. Poseo habilidades y conocimientos de gestión de inventario y almacenes, experimentado también en entornos de servicio de atención al cliente y ofimática. Soy proactivo, asertivo, con un fuerte sentido de la organización y puntualidad, además de experiencia en el trabajo en equipo."
+    },
+    "education": [
+        {
+            "date": "Abr 2019 — Presente",
+            "institution": "Estudios Universitarios, Universidad Privada San Juan Bautista",
+            "area": "Grado en Ingeniería de computación y sistemas",
+            "location": "Chincha Alta"
+        }
+    ],
+    "work": [
+        {
+            "date": "Feb 2020 — Mar 2020",
+            "company": "Proimpulsa",
+            "position": "Impulsador de Marca Vinifan",
+            "attainment": [
+                "Ayudé a superar períodos de temporada alta con un incremento del 15% en el número de clientes."
+            ],
+            "location": "Chincha Alta",
+            "highlights": [
+                "Reposición y exhibición de productos Vinifan.",
+                "Orientación al cliente en la compra de los productos de la marca."
+            ],
+            "reference": "Mónica Villavicencio"
+        },
+        {
+            "date": "Dic 2021 — Ene 2022",
+            "company": "Tai Loy S. A.",
+            "position": "Gondolero",
+            "attainment": [
+                "Mantuve la satisfacción del cliente en las ventas realizadas durante mi periodo en la campaña escolar 2022."
+            ],
+            "location": "Chincha Alta",
+            "highlights": [
+                "Responsable de reposición de productos en góndolas según marca y tipo.",
+                "Efectuar los cambios de códigos, precios y etiquetado de productos.",
+                "Orientar a los clientes en la búsqueda de los productos solicitados."
+            ],
+            "reference": "Miguel Ángel Saravia Tasayco"
+        },
+        {
+            "date": "Feb 2020 — Mar 2020",
+            "company": "Tai Loy S. A.",
+            "position": "Almacenero",
+            "attainment": [
+                "Lideré el equipo de almacén en la campaña navideña y escolar 2022 - 2023.",
+                "Ayudé a incrementar el porcentaje de clientes mayoristas satisfechos.",
+                "Contribuí a la mejora del orden y distribución de la mercadería en un 35% más en el área a cargo."
+            ],
+            "location": "Chincha Alta",
+            "highlights": [
+                "Preparación de los pedidos de acuerdo a las órdenes de sacado y sistema. ",
+                "Recepción y revisión de entregas de mercadería.",
+                "Orden y limpieza del almacén y despacho."
+            ],
+            "reference": "José Martínez Sebastián"
+        },
+        {
+            "date": "Jun 2023 — Actualmente",
+            "company": "Hipermercados Tottus ",
+            "position": "Operador Multifuncional",
+            "attainment": [
+                "Lideré el proyecto de mejora de las zonas de almacenamiento encaminando las BPA para proyectos futuros.",
+                "Contribuí a la mejora del proceso de consultas de códigos y precios de productos de Bazar/Hogar en el área diseñando un aplicativo de búsqueda interno."
+            ],
+            "location": "Chincha Alta",
+            "highlights": [
+                "Orden y reposición de productos en lineales de góndola.",
+                "Orientación al cliente en la compra de los productos de Bazar/Hogar.",
+                "Orden y limpieza de las zonas de almacenamiento."
+            ],
+            "reference": "Francisco Pasache Avalos"
+        }
+    ],
+    "skills": [
+        {
+            "skill": "Trabajo bajo presión."
+        },
+        {
+            "skill": "Responsabilidad."
+        },
+        {
+            "skill": "Adaptabilidad."
+        },
+        {
+            "skill": "Organización."
+        },
+        {
+            "skill": "Trabajo en Equipo."
+        }
+    ]
+}

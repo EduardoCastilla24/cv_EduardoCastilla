@@ -1,0 +1,15 @@
+---
+    import Section from './Section.astro'
+    import {education} from '@cv'
+---
+
+<Section title='Formación'>
+    {education.map(e => (
+        <p class="col-span-2 w-[20rem]">{e.date}</p>
+        <span class="col-span-8 flex flex-col pl-20 gap-2">
+            <h3>{e.institution}</h3>
+            <p>{e.area}</p>
+        </span>
+        <p class="col-span-2 text-end ">{e.location}</p>
+    ))}
+</Section>
