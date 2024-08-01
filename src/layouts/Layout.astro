@@ -16,7 +16,7 @@ const { title } = Astro.props;
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
-	<body class="flex items-center justify-center w-full px-20">
+	<body class="flex items-center justify-center w-full px-20 h-screen">
 		<slot />
 	</body>
 </html>
@@ -38,5 +38,11 @@ const { title } = Astro.props;
 	}
 	p{
 		@apply text-[.65rem] font-light text-[#a2a2a2] text-pretty tracking-wide leading-5
+	}
+	/* Selecciona cualquier página de la derecha al imprimir */
+	@media print {
+		#work-3 {
+			padding-top: 5rem;
+		}
 	}
 </style>
