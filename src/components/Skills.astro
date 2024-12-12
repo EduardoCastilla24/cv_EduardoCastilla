@@ -2,9 +2,9 @@
     import {skills} from '@cv'
 ---
 
-<section class="flex border-t pt-10 w-full justify-between gap-10">
+<section class="flex flex-col md:flex-row border-t pt-10 w-full justify-between gap-10">
     <h2 class="uppercase">Competencias</h2>
-    <div class="flex items-center gap-4 flex-wrap skills w-[31.5rem]">
+    <div class="flex items-center gap-4 flex-wrap skills w-full md:pl-24 xl:pl-12">
         {skills.map((s) => (
             <p class="bg-gray-100 px-4 py-1 rounded-md text-gray-500">
                 {s.skill}
