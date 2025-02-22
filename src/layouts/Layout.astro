@@ -41,12 +41,16 @@ const { title } = Astro.props;
 	}
 	/* Selecciona cualquier página de la derecha al imprimir */
 	@media print {
-		#logro-3 {
-			margin-top: 8rem !important;
-		}
-        .summary, .skills{
-            width:  28rem !important;
-        }
+    @page {
+        size: A4 portrait; /* También puedes probar landscape */
+		padding: 2cm 0;
+    }
 
+	main{
+		@apply !py-0
+	}
+    .summary, .skills {
+        width: 28rem !important;
+    }
 	}
 </style>

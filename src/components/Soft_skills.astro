@@ -1,13 +1,13 @@
 ---
-    import {skills} from '@cv'
+    import {soft_skills} from '@cv'
 ---
 
 <section class="flex flex-col md:flex-row border-t pt-10 w-full justify-between gap-10" id="skills">
-    <h2 class="uppercase">Habilidades</h2>
+    <h2 class="uppercase">Competencias</h2>
     <div class="flex items-center gap-4 flex-wrap skills w-full md:pl-24 xl:pl-12">
-        {skills.map((s) => (
+        {soft_skills.map((s) => (
             <p class="bg-gray-100 px-4 py-1 rounded-md text-gray-500">
-                {s.skill}
+                {s.soft_skill}
             </p>
         ))}
     </div>

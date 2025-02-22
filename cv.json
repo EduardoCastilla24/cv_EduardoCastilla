@@ -16,7 +16,7 @@
                 "url": "https://twitter.com/john"
             }
         ],
-        "summary": "Estudiante de ingeniería de computación y sistemas cursando el 10mo ciclo académico. Poseo habilidades y conocimientos de gestión de inventario y almacenes, experimentado también en entornos de servicio de atención al cliente y ofimática. Soy proactivo, asertivo, con un fuerte sentido de la organización y puntualidad, además de experiencia en el trabajo en equipo."
+        "summary": "Estudiante de Ingeniería de Computación y Sistemas en el 10° ciclo académico. Cuento con experiencia en gestión de inventario y almacenes, así como en entornos de atención al cliente y ofimática. Me destaco por mi proactividad, asertividad y alto sentido de organización y puntualidad. Además, tengo experiencia en trabajo en equipo y una gran pasión por el desarrollo web, el análisis de datos y la optimización de procesos."
     },
     "education": [
         {
@@ -90,21 +90,53 @@
             "reference": "Francisco Pasache Avalos"
         }
     ],
+    "soft_skills": [
+        {
+            "soft_skill": "Responsabilidad."
+        },
+        {
+            "soft_skill": "Organización."
+        },
+        {
+            "soft_skill": "Adaptabilidad."
+        },
+        {
+            "soft_skill": "Trabajo bajo presión."
+        },
+        {
+            "soft_skill": "Comunicación efectiva."
+        },
+        {
+            "soft_skill": "Trabajo en Equipo."
+        }
+    ],
     "skills": [
         {
-            "skill": "Responsabilidad."
+            "skill": "Html y css"
         },
         {
-            "skill": "Organización."
+            "skill": "Javascript"
         },
         {
-            "skill": "Adaptabilidad."
+            "skill": "Mysql"
         },
         {
-            "skill": "Trabajo bajo presión."
+            "skill": "Astro"
         },
         {
-            "skill": "Trabajo en Equipo."
+            "skill": "Tailwindcss"
+        },
+        {
+            "skill": "Laravel/Php"
+        },
+        {
+            "skill": "Control de versiones en Git"
+        },
+        {
+            "skill": "Office"
+        },
+        {
+            "skill": "Figma"
         }
     ]
 }
