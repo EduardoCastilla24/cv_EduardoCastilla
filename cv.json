@@ -20,13 +20,19 @@
     },
     "soft_skills": [
         {
+            "soft_skill": "Compromiso con la mejora continua."
+        },
+        {
             "soft_skill": "Responsabilidad."
+        },
+        {
+            "soft_skill": "Orientación al cliente."
         },
         {
             "soft_skill": "Organización."
         },
         {
-            "soft_skill": "Orientación al cliente."
+            "soft_skill": "Disposición para ayudar a otros a desarrollarse."
         },
         {
             "soft_skill": "Adaptabilidad."
@@ -35,7 +41,7 @@
             "soft_skill": "Trabajo bajo presión."
         },
         {
-            "soft_skill": "Compromiso con la mejora continua."
+            "soft_skill": "Capacidad para generar relaciones positivas."
         },
         {
             "soft_skill": "Comunicación efectiva."
@@ -47,6 +53,9 @@
     "skills": [
         {
           "skill": "Microsoft Office - Nivel Intermedio (Excel, Word, PowerPoint)"
+        },
+        {
+          "skill": "Consulta de Productos"
         },
         {
             "skill": "Html y css"
