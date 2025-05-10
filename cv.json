@@ -26,9 +26,6 @@
         "soft_skill": "Responsabilidad y organización."
       },
       {
-        "soft_skill": "Orientación al cliente."
-      },
-      {
         "soft_skill": "Disposición para ayudar a otros a desarrollarse."
       },
       {
@@ -40,13 +37,13 @@
     ],
     "skills": [
         {
-          "skill": "Microsoft Office - Nivel Intermedio (Excel, Word, PowerPoint)"
+          "skill": "Microsoft Office - Nivel Intermedio (Excel, Word)"
         },
         {
-          "skill": "Consulta de Productos"
+          "skill": "Manejo de procesos de órdenes de compra"
         },
         {
-            "skill": "HTML y CSS"
+            "skill": "Experiencia en el uso del sistema PMM"
         },
         {
             "skill": "Javascript"
@@ -131,9 +128,9 @@
             "position": "Operador Multifuncional",
             "attainment": [
                 "Lideré el proyecto de mejora de las zonas de almacenamiento encaminando las BPA para proyectos futuros.",
-                "Contribuí a la mejora del proceso de consultas de códigos y precios de productos de Bazar/Hogar en el área diseñando un aplicativo de búsqueda interno.",
+                "Contribuí a la mejora del proceso de consultas de códigos y precios de productos de Bazar/Hogar diseñando un aplicativo de búsqueda interna",
                 "Contribuí al incremento del porcentaje de ventas en la categoría asignada (Bazar) mediante conocimiento del surtido.",
-                "Formé parte activa en la mejora de los resultados del indicador NSG en la tienda Tottus Chincha.",
+                "Formé parte activa en la mejora de los resultados NSG en la tienda Tottus Chincha.",
                 "Implementé mejoras en el proceso de ajuste de productos negativos y obsoletos, optimizando la rotación de inventario.",
                 "Domino los procesos de picking, reposición y el uso del aplicativo 'Operación Tienda' para la gestión eficiente del surtido de productos."               
             ],
