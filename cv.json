@@ -19,36 +19,24 @@
         "summary": "Estudiante de Ingeniería de Computación y Sistemas en el último ciclo académico. Cuento con sólida experiencia en retail, atención al cliente, orden de góndolas y control de stock, además de gestionar procesos de inventario y almacén. Me caracterizo por mi compromiso, orientación a resultados y habilidades interpersonales. Busco seguir creciendo en el área comercial, aportando mi capacidad de organización, proactividad y conocimiento en tecnología para optimizar procesos internos."
     },
     "soft_skills": [
-        {
-            "soft_skill": "Compromiso con la mejora continua."
-        },
-        {
-            "soft_skill": "Responsabilidad."
-        },
-        {
-            "soft_skill": "Orientación al cliente."
-        },
-        {
-            "soft_skill": "Organización."
-        },
-        {
-            "soft_skill": "Disposición para ayudar a otros a desarrollarse."
-        },
-        {
-            "soft_skill": "Adaptabilidad."
-        },
-        {
-            "soft_skill": "Trabajo bajo presión."
-        },
-        {
-            "soft_skill": "Capacidad para generar relaciones positivas."
-        },
-        {
-            "soft_skill": "Comunicación efectiva."
-        },
-        {
-            "soft_skill": "Trabajo en Equipo."
-        }
+      {
+        "soft_skill": "Compromiso con la mejora continua."
+      },
+      {
+        "soft_skill": "Responsabilidad y organización."
+      },
+      {
+        "soft_skill": "Orientación al cliente."
+      },
+      {
+        "soft_skill": "Disposición para ayudar a otros a desarrollarse."
+      },
+      {
+        "soft_skill": "Trabajo bajo presión."
+      },
+      {
+        "soft_skill": "Capacidad para generar relaciones positivas."
+      }
     ],
     "skills": [
         {
@@ -58,13 +46,13 @@
           "skill": "Consulta de Productos"
         },
         {
-            "skill": "Html y css"
+            "skill": "HTML y CSS"
         },
         {
             "skill": "Javascript"
         },
         {
-            "skill": "Mysql"
+            "skill": "MYSQL"
         },
         {
             "skill": "Astro"
@@ -144,7 +132,7 @@
             "attainment": [
                 "Lideré el proyecto de mejora de las zonas de almacenamiento encaminando las BPA para proyectos futuros.",
                 "Contribuí a la mejora del proceso de consultas de códigos y precios de productos de Bazar/Hogar en el área diseñando un aplicativo de búsqueda interno.",
-                "Contribuí al incremento del porcentaje de ventas en la categoría asiganada (Bazar) mediante conocimiento del surtido.",
+                "Contribuí al incremento del porcentaje de ventas en la categoría asignada (Bazar) mediante conocimiento del surtido.",
                 "Formé parte activa en la mejora de los resultados del indicador NSG en la tienda Tottus Chincha.",
                 "Implementé mejoras en el proceso de ajuste de productos negativos y obsoletos, optimizando la rotación de inventario.",
                 "Domino los procesos de picking, reposición y el uso del aplicativo 'Operación Tienda' para la gestión eficiente del surtido de productos."               
