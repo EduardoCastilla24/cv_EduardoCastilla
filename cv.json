@@ -68,52 +68,6 @@
     ],
     "work": [
         {
-            "date": "Feb 2020 — Mar 2020",
-            "company": "Proimpulsa",
-            "position": "Impulsador de Marca Vinifan",
-            "attainment": [
-                "Ayudé a superar períodos de temporada alta con un incremento del 15% en el número de clientes."
-            ],
-            "location": "Chincha Alta",
-            "highlights": [
-                "Reposición y exhibición de productos Vinifan.",
-                "Orientación al cliente en la compra de los productos de la marca."
-            ],
-            "reference": "Mónica Villavicencio"
-        },
-        {
-            "date": "Dic 2021 — Ene 2022",
-            "company": "Tai Loy S. A.",
-            "position": "Gondolero",
-            "attainment": [
-                "Mantuve la satisfacción del cliente en las ventas realizadas durante mi periodo en la campaña escolar 2022."
-            ],
-            "location": "Chincha Alta",
-            "highlights": [
-                "Responsable de reposición de productos en góndolas según marca y tipo.",
-                "Efectuar los cambios de códigos, precios y etiquetado de productos.",
-                "Orientar a los clientes en la búsqueda de los productos solicitados."
-            ],
-            "reference": "Miguel Ángel Saravia Tasayco"
-        },
-        {
-            "date": "Feb 2020 — Mar 2020",
-            "company": "Tai Loy S. A.",
-            "position": "Almacenero",
-            "attainment": [
-                "Lideré el equipo de almacén en la campaña navideña y escolar 2022 - 2023.",
-                "Ayudé a incrementar el porcentaje de clientes mayoristas satisfechos.",
-                "Contribuí a la mejora del orden y distribución de la mercadería en un 35% más en el área a cargo."
-            ],
-            "location": "Chincha Alta",
-            "highlights": [
-                "Preparación de los pedidos de acuerdo a las órdenes de sacado y sistema. ",
-                "Recepción y revisión de entregas de mercadería.",
-                "Orden y limpieza del almacén y despacho."
-            ],
-            "reference": "José Martínez Sebastián"
-        },
-        {
             "date": "Jun 2023 — Actualmente",
             "company": "Hipermercados Tottus",
             "position": "Operador Multifuncional",
@@ -132,6 +86,52 @@
                 "Orden y limpieza de las zonas de almacenamiento."
             ],
             "reference": "Francisco Pasache Avalos"
+        },
+        {
+            "date": "Feb 2022 — Mar 2023",
+            "company": "Tai Loy S. A.",
+            "position": "Almacenero",
+            "attainment": [
+                "Lideré el equipo de almacén en la campaña navideña y escolar 2022 - 2023.",
+                "Ayudé a incrementar el porcentaje de clientes mayoristas satisfechos.",
+                "Contribuí a la mejora del orden y distribución de la mercadería en un 35% más en el área a cargo."
+            ],
+            "location": "Chincha Alta",
+            "highlights": [
+                "Preparación de los pedidos de acuerdo a las órdenes de sacado y sistema. ",
+                "Recepción y revisión de entregas de mercadería.",
+                "Orden y limpieza del almacén y despacho."
+            ],
+            "reference": "José Martínez Sebastián"
+        },
+        {
+            "date": "Dic 2021 — Ene 2022",
+            "company": "Tai Loy S. A.",
+            "position": "Gondolero",
+            "attainment": [
+                "Mantuve la satisfacción del cliente en las ventas realizadas durante mi periodo en la campaña escolar 2022."
+            ],
+            "location": "Chincha Alta",
+            "highlights": [
+                "Responsable de reposición de productos en góndolas según marca y tipo.",
+                "Efectuar los cambios de códigos, precios y etiquetado de productos.",
+                "Orientar a los clientes en la búsqueda de los productos solicitados."
+            ],
+            "reference": "Miguel Ángel Saravia Tasayco"
+        },
+        {
+            "date": "Ene 2020 — Mar 2020",
+            "company": "Proimpulsa",
+            "position": "Impulsador de Marca Vinifan",
+            "attainment": [
+                "Ayudé a superar períodos de temporada alta con un incremento del 15% en el número de clientes."
+            ],
+            "location": "Chincha Alta",
+            "highlights": [
+                "Reposición y exhibición de productos Vinifan.",
+                "Orientación al cliente en la compra de los productos de la marca."
+            ],
+            "reference": "Mónica Villavicencio"
         }
     ]
 }
