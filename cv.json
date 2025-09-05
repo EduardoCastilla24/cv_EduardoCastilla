@@ -11,132 +11,103 @@
         },
         "networks": [
             {
-                "network": "Twitter",
-                "username": "john",
-                "url": "https://twitter.com/john"
+                "network": "LinkedIn",
+                "username": "eduardocastilla",
+                "url": "https://linkedin.com/in/eduardocastilla"
             }
         ],
-        "summary": "Estudiante de Ingeniería de Computación y Sistemas en el 10° ciclo académico. Cuento con experiencia en gestión de inventario y almacenes, así como en entornos de atención al cliente y ofimática. Me destaco por mi proactividad, asertividad y alto sentido de organización y puntualidad. Además, tengo experiencia en trabajo en equipo y una gran pasión por el desarrollo web, el análisis de datos y la optimización de procesos."
+        "summary": "Estudiante de Ingeniería de Sistemas con experiencia práctica en desarrollo de software con Laravel / JS / React / Astro,. He implementado proyectos como sistemas de gestión de almacenes, aplicación interna de búsqueda de productos y balanza con gestión de residuos, obteniendo un reconocimiento municipal en Chincha Alta. Me caracterizo por mi capacidad de análisis, resolución de problemas, trabajo en equipo y compromiso con la innovación tecnológica."
     },
+    "soft_skills": [
+        {
+            "soft_skill": "Análisis y resolución de problemas"
+        },
+        {
+            "soft_skill": "Trabajo en equipo"
+        },
+        {
+            "soft_skill": "Aprendizaje y adaptabilidad"
+        },
+        {
+            "soft_skill": "Organización y planificación"
+        },
+        {
+            "soft_skill": "Comunicación efectiva"
+        }
+    ],
+    "skills": [
+        {
+            "skill": "Desarrollo web | Laravel, Astro, React"
+        },
+        {
+            "skill": "Migración de software y optimización de procesos"
+        },
+        {
+            "skill": "Manejo de bases de datos MySQL y Postgres SQL"
+        },
+        {
+            "skill": "Control de versiones con Git"
+        },
+        {
+            "skill": "Maquetado con HTML, CSS, Tailwind y Figma"
+        }
+    ],
     "education": [
         {
             "date": "Abr 2019 — Presente",
-            "institution": "Estudios Universitarios, Universidad Privada San Juan Bautista",
-            "area": "Grado en Ingeniería de computación y sistemas",
+            "institution": "Universidad Privada San Juan Bautista",
+            "area": "Grado en Ingeniería de Sistemas",
             "location": "Chincha Alta"
         }
     ],
     "work": [
         {
-            "date": "Feb 2020 — Mar 2020",
-            "company": "Proimpulsa",
-            "position": "Impulsador de Marca Vinifan",
+            "date": "Marzo 2025 — Presente",
+            "company": "Proyecto Municipal",
+            "position": "Balanza con Gestión de Residuos",
             "attainment": [
-                "Ayudé a superar períodos de temporada alta con un incremento del 15% en el número de clientes."
+                "Desarrollé una balanza digital con registro y control de residuos, logrando reconocimiento municipal en Chincha.",
+                "Implementé módulos de reportes automáticos y seguimiento de datos en tiempo real.",
+                "Aplicación de buenas prácticas en Laravel y gestión eficiente de bases de datos."
             ],
             "location": "Chincha Alta",
             "highlights": [
-                "Reposición y exhibición de productos Vinifan.",
-                "Orientación al cliente en la compra de los productos de la marca."
+                "Proyecto destacado por innovación tecnológica y aporte ambiental.",
+                "Sistema escalable y modular, preparado para futuras mejoras."
             ],
-            "reference": "Mónica Villavicencio"
+            "reference": "Municipalidad de Chincha - Romer Chava Gonzales"
         },
         {
-            "date": "Dic 2021 — Ene 2022",
-            "company": "Tai Loy S. A.",
-            "position": "Gondolero",
+            "date": "Noviembre 2024",
+            "company": "Proyectos Personales",
+            "position": "Sistema de Gestión de Almacén",
             "attainment": [
-                "Mantuve la satisfacción del cliente en las ventas realizadas durante mi periodo en la campaña escolar 2022."
+                "Diseñé y desarrollé un sistema para la gestión completa de almacenes, incluyendo control de inventario y movimientos de stock.",
+                "Implementé consultas y reportes dinámicos usando bases de datos MySQL y Postgres.",
+                "Optimicé procesos internos mediante digitalización de tareas manuales."
             ],
             "location": "Chincha Alta",
             "highlights": [
-                "Responsable de reposición de productos en góndolas según marca y tipo.",
-                "Efectuar los cambios de códigos, precios y etiquetado de productos.",
-                "Orientar a los clientes en la búsqueda de los productos solicitados."
+                "Integración de interfaz amigable con Tailwind / Html",
+                "Automatización de registros y generación de reportes con Laravel y Js"
             ],
             "reference": "Miguel Ángel Saravia Tasayco"
         },
         {
-            "date": "Feb 2020 — Mar 2020",
-            "company": "Tai Loy S. A.",
-            "position": "Almacenero",
+            "date": "Abr 2024 — Presente",
+            "company": "Proyectos Personales",
+            "position": "Sistema de Gestión de Productos Internos",
             "attainment": [
-                "Lideré el equipo de almacén en la campaña navideña y escolar 2022 - 2023.",
-                "Ayudé a incrementar el porcentaje de clientes mayoristas satisfechos.",
-                "Contribuí a la mejora del orden y distribución de la mercadería en un 35% más en el área a cargo."
+                "Desarrollé un sistema interno de búsqueda de productos para optimizar la consulta y control de inventario.",
+                "Implementé funcionalidades de registro digitalizado.",
+                "Aplicación de buenas prácticas en Astro, js y uso de Google App Script."
             ],
             "location": "Chincha Alta",
             "highlights": [
-                "Preparación de los pedidos de acuerdo a las órdenes de sacado y sistema. ",
-                "Recepción y revisión de entregas de mercadería.",
-                "Orden y limpieza del almacén y despacho."
-            ],
-            "reference": "José Martínez Sebastián"
-        },
-        {
-            "date": "Jun 2023 — Actualmente",
-            "company": "Hipermercados Tottus ",
-            "position": "Operador Multifuncional",
-            "attainment": [
-                "Lideré el proyecto de mejora de las zonas de almacenamiento encaminando las BPA para proyectos futuros.",
-                "Contribuí a la mejora del proceso de consultas de códigos y precios de productos de Bazar/Hogar en el área diseñando un aplicativo de búsqueda interno."
-            ],
-            "location": "Chincha Alta",
-            "highlights": [
-                "Orden y reposición de productos en lineales de góndola.",
-                "Orientación al cliente en la compra de los productos de Bazar/Hogar.",
-                "Orden y limpieza de las zonas de almacenamiento."
+                "Sistema escalable y modular, fácil de mantener y extender.",
+                "Automatización de procesos internos."
             ],
             "reference": "Francisco Pasache Avalos"
-        }
-    ],
-    "soft_skills": [
-        {
-            "soft_skill": "Responsabilidad."
-        },
-        {
-            "soft_skill": "Organización."
-        },
-        {
-            "soft_skill": "Adaptabilidad."
-        },
-        {
-            "soft_skill": "Trabajo bajo presión."
-        },
-        {
-            "soft_skill": "Comunicación efectiva."
-        },
-        {
-            "soft_skill": "Trabajo en Equipo."
-        }
-    ],
-    "skills": [
-        {
-            "skill": "Html y css"
-        },
-        {
-            "skill": "Javascript"
-        },
-        {
-            "skill": "Mysql"
-        },
-        {
-            "skill": "Astro"
-        },
-        {
-            "skill": "Tailwindcss"
-        },
-        {
-            "skill": "Laravel/Php"
-        },
-        {
-            "skill": "Control de versiones en Git"
-        },
-        {
-            "skill": "Office"
-        },
-        {
-            "skill": "Figma"
         }
     ]
 }
