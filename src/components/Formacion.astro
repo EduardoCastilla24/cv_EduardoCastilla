@@ -5,11 +5,11 @@
 
 <Section title='Formación'>
     {education.map(e => (
-        <p class="col-span-6 md:col-span-2 w-[20rem] order-1">{e.date}</p>
+        <p class="col-span-6 md:col-span-2 w-[20rem] order-1 text-[#1e1e1e]/70">{e.date}</p>
         <span class="col-span-12 md:col-span-8 flex flex-col md:pl-20 gap-2 order-3 md:order-2 text-pretty text-justify">
-            <h3>{e.institution}</h3>
-            <p>{e.area}</p>
+            <h3 class="text-[#1e1e1e]/70 font-bold">{e.area}</h3>
+            <p>{e.institution}</p>
         </span>
-        <p class="order-2 md:order-3 col-span-6 md:col-span-2 text-end ">{e.location}</p>
+        <p class="order-2 md:order-3 col-span-6 md:col-span-2 text-end text-[#1e1e1e]/70">{e.location}</p>
     ))}
 </Section>

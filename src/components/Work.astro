@@ -6,25 +6,25 @@
 <Section title='Experiencia Laboral'>
     {work.map( (w, index)=> (
         <article class="grid grid-cols-12 gap-y-5 md:gap-y-10 w-full col-span-12" id={`work-${index+1}`} >
-            <p class="col-span-6 md:col-span-2 w-[20rem] order-1">{w.date}</p>
+            <p class="col-span-6 md:col-span-2 w-[20rem] order-1 text-[#1e1e1e]/70">{w.date}</p>
             <div class="col-span-12 md:col-span-8 flex flex-col md:pl-20 gap-2 order-3 md:order-2 text-pretty">
                 <h3>{w.position}, {w.company}</h3>
                 <span class="flex flex-col gap-2">
                     {w.highlights.map(h => (
-                        <p>• {h}</p>
+                        <p class=" text-[#1e1e1e]/70">• {h}</p>
                     ))}
                 </span>
                 <div class="col-span-8 flex flex-col gap-2 mt-4" id={`logro-${index+1}`}>
                     <h3>Logro Clave</h3>
                     <span class="flex flex-col gap-2">
                         {w.attainment.map(a => (
-                            <p>• {a}</p>
+                            <p class=" text-[#1e1e1e]/70">• {a}</p>
                         ))}
                         <p class="italic pt-2">Ref.: {w.reference}</p>
                     </span>
                 </div>
             </div>
-            <p class="col-span-6 md:col-span-2 text-end order-2 md:order-3">{w.location}</p>
+            <p class="col-span-6 md:col-span-2 text-end order-2 md:order-3  text-[#1e1e1e]/70">{w.location}</p>
         </article>
     ))}
 </Section>

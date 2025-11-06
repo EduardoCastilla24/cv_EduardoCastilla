@@ -16,40 +16,37 @@
                 "url": "https://linkedin.com/in/eduardocastilla"
             }
         ],
-        "summary": "Estudiante de Ingeniería de Sistemas con experiencia práctica en desarrollo de software con Laravel / JS / React / Astro,. He implementado proyectos como sistemas de gestión de almacenes, aplicación interna de búsqueda de productos y balanza con gestión de residuos, obteniendo un reconocimiento municipal en Chincha Alta. Me caracterizo por mi capacidad de análisis, resolución de problemas, trabajo en equipo y compromiso con la innovación tecnológica."
+        "summary": "Estudiante de Ingeniería de Sistemas con experiencia práctica en desarrollo de software con Laravel / JS / React / TypeScript. Me caracterizo por mi capacidad de análisis, resolución de problemas, trabajo en equipo y compromiso con la innovación tecnológica."
     },
     "soft_skills": [
         {
             "soft_skill": "Análisis y resolución de problemas"
         },
         {
-            "soft_skill": "Trabajo en equipo"
-        },
-        {
             "soft_skill": "Aprendizaje y adaptabilidad"
         },
         {
-            "soft_skill": "Organización y planificación"
+            "soft_skill": "Organización"
         },
         {
-            "soft_skill": "Comunicación efectiva"
+            "soft_skill": "Capacidad para generar relaciones positivas."
         }
     ],
     "skills": [
         {
-            "skill": "Desarrollo web | Laravel, Astro, React"
+            "skill": "Desarrollo web"
         },
         {
-            "skill": "Migración de software y optimización de procesos"
+            "skill": "Optimización de procesos"
         },
         {
-            "skill": "Manejo de bases de datos MySQL y Postgres SQL"
+            "skill": "Manejo de bases de datos"
         },
         {
-            "skill": "Control de versiones con Git"
+            "skill": "Control de versiones"
         },
         {
-            "skill": "Maquetado con HTML, CSS, Tailwind y Figma"
+            "skill": "M. Office - Nivel Intermedio"
         }
     ],
     "education": [
