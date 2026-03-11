@@ -16,93 +16,96 @@
                 "url": "https://linkedin.com/in/eduardocastilla"
             }
         ],
-        "summary": "Bachiller en Ingeniería de Sistemas con experiencia práctica en desarrollo de software con Laravel / JS / React / TypeScript. Me caracterizo por mi capacidad de análisis, resolución de problemas, trabajo en equipo y compromiso con la innovación tecnológica."
+        "summary": "Bachiller en Ingeniería de Sistemas con experiencia en desarrollo de aplicaciones web y sistemas de gestión. Manejo de Angular, Laravel, HTML, CSS, JavaScript y bases de datos SQL. Experiencia en consumo e implementación de APIs REST y desarrollo de soluciones tecnológicas orientadas a optimizar procesos."
     },
     "soft_skills": [
         {
             "soft_skill": "Análisis y resolución de problemas"
         },
         {
-            "soft_skill": "Aprendizaje y adaptabilidad"
+            "soft_skill": "Trabajo en equipo"
         },
         {
-            "soft_skill": "Organización"
+            "soft_skill": "Adaptabilidad"
         },
         {
-            "soft_skill": "Capacidad para generar relaciones positivas."
+            "soft_skill": "Organización y responsabilidad"
         }
     ],
     "skills": [
         {
-            "skill": "Desarrollo web"
-        },
-        {
-            "skill": "Optimización de procesos"
-        },
-        {
-            "skill": "Manejo de bases de datos"
+            "skill": "Desarrollo de aplicaciones web"
         },
         {
             "skill": "Control de versiones"
         },
         {
-            "skill": "M. Office - Nivel Intermedio"
+            "skill": "Bases de datos SQL"
+        },
+        {
+            "skill": "HTML, CSS, JavaScript"
+        },
+        {
+            "skill": "Consumo e integración de APIs REST"
+        },
+        {
+            "skill": "Excel (Intermedio)"
         }
     ],
     "education": [
         {
-            "date": "Abr 2019 — Presente",
+            "date": "Abr 2019 — Dic 2025",
             "institution": "Universidad Privada San Juan Bautista",
-            "area": "Grado en Ingeniería de Sistemas",
+            "area": "Bachiller en Ingeniería de Sistemas",
             "location": "Chincha Alta"
         }
     ],
     "work": [
         {
-            "date": "Marzo 2025 — Presente",
+            "date": "Marzo 2025 — Dic 2025",
             "company": "Proyecto Municipal",
-            "position": "Balanza con Gestión de Residuos",
+            "position": "Desarrollador de Sistema de Gestión de Residuos",
             "attainment": [
-                "Desarrollé una balanza digital con registro y control de residuos, logrando reconocimiento municipal en Chincha.",
-                "Implementé módulos de reportes automáticos y seguimiento de datos en tiempo real.",
-                "Aplicación de buenas prácticas en Laravel y gestión eficiente de bases de datos."
+                "Desarrollo de una balanza digital para registro y control de residuos sólidos.",
+                "Implementación de módulos de registro, reportes automáticos y visualización de datos.",
+                "Diseño de base de datos y desarrollo backend utilizando Laravel."
             ],
             "location": "Chincha Alta",
             "highlights": [
-                "Proyecto destacado por innovación tecnológica y aporte ambiental.",
-                "Sistema escalable y modular, preparado para futuras mejoras."
+                "Sistema reconocido por la Municipalidad de Chincha por su aporte tecnológico.",
+                "Automatización de procesos manuales y generación de reportes."
             ],
             "reference": "Municipalidad de Chincha - Romer Chava Gonzales"
         },
         {
             "date": "Noviembre 2024",
-            "company": "Proyectos Personales",
+            "company": "Proyecto Personal",
             "position": "Sistema de Gestión de Almacén",
             "attainment": [
-                "Diseñé y desarrollé un sistema para la gestión completa de almacenes, incluyendo control de inventario y movimientos de stock.",
-                "Implementé consultas y reportes dinámicos usando bases de datos MySQL y Postgres.",
-                "Optimicé procesos internos mediante digitalización de tareas manuales."
+                "Desarrollo de sistema para control de inventario y movimientos de productos.",
+                "Implementación de consultas SQL optimizadas y reportes dinámicos.",
+                "Diseño de interfaz web utilizando HTML, CSS y Tailwind."
             ],
             "location": "Chincha Alta",
             "highlights": [
-                "Integración de interfaz amigable con Tailwind / Html",
-                "Automatización de registros y generación de reportes con Laravel y Js"
+                "Automatización del control de stock.",
+                "Sistema modular escalable."
             ],
             "reference": "Miguel Ángel Saravia Tasayco"
         },
         {
             "date": "Abr 2024 — Presente",
-            "company": "Proyectos Personales",
-            "position": "Sistema de Gestión de Productos Internos",
+            "company": "Proyecto Personal",
+            "position": "Sistema de Gestión de Productos",
             "attainment": [
-                "Desarrollé un sistema interno de búsqueda de productos para optimizar la consulta y control de inventario.",
-                "Implementé funcionalidades de registro digitalizado.",
-                "Aplicación de buenas prácticas en Astro, js y uso de Google App Script."
+                "Desarrollo de sistema interno para búsqueda y registro de productos.",
+                "Digitalización de procesos manuales de consulta de inventario.",
+                "Integración con herramientas como Google Apps Script."
             ],
             "location": "Chincha Alta",
             "highlights": [
-                "Sistema escalable y modular, fácil de mantener y extender.",
-                "Automatización de procesos internos."
+                "Optimización del tiempo de búsqueda de productos.",
+                "Sistema ligero y fácil de mantener."
             ],
             "reference": "Francisco Pasache Avalos"
         }
